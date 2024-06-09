@@ -32,7 +32,7 @@ The dashboard includes the following insights:
 - **PDF Report**: Download the `Sales Analysis Dashboard.pdf` file to view the detailed report.
 - **Interactive Report**: Download the `Sales Analysis Dashboard.pbix` file to interact with the data using Power BI Desktop.
 - **Dataset**: Download the dataset used in this analysis from the following link: [Download Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
-) (replace with your actual dataset link).
+  
 
 ## Preview
 ![Dashboard Preview](dashboard_image.png)
