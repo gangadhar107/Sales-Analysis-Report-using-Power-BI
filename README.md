@@ -6,7 +6,7 @@ This repository contains a sales analysis dashboard created using Power BI.
 - `Sales Analysis Dashboard.pdf`: PDF version of the sales analysis report.
 - `dashboard_image.png`: Screenshot of the dashboard for a quick view.
 - `Sales Analysis Dashboard.pbix`: Power BI report file for interactive exploration.
-- `Dataset Link`: [Download Dataset](https://example.com/dataset-link) (replace with your actual dataset link)
+- `Dataset Link`: [Download Dataset](https://example.com/dataset-link)
 
 ## Overview
 The dashboard includes the following insights:
