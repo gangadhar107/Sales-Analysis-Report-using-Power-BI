@@ -6,7 +6,7 @@ This repository contains a sales analysis dashboard created using Power BI.
 - `Sales Analysis Dashboard.pdf`: PDF version of the sales analysis report.
 - `dashboard_image.png`: Screenshot of the dashboard for a quick view.
 - `Sales Analysis Dashboard.pbix`: Power BI report file for interactive exploration.
-- `Dataset Link`: [Download Dataset](https://example.com/dataset-link)
+- `Dataset Link`: [Download Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## Overview
 The dashboard includes the following insights:
@@ -31,7 +31,7 @@ The dashboard includes the following insights:
 ## Usage
 - **PDF Report**: Download the `Sales Analysis Dashboard.pdf` file to view the detailed report.
 - **Interactive Report**: Download the `Sales Analysis Dashboard.pbix` file to interact with the data using Power BI Desktop.
-- **Dataset**: Download the dataset used in this analysis from the following link: [Download Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+- **Dataset**: Download the dataset used in this analysis from the following link: [Download Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
   
 
 ## Preview
