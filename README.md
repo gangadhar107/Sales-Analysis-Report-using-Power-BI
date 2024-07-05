@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard using Power BI
+# Sales Analysis Report using Power BI
 
 This repository contains a sales analysis dashboard created using Power BI.
 
@@ -35,12 +35,12 @@ The dashboard includes the following insights:
   
 
 ## Preview
-![Dashboard Preview](dashboard_image.png)
+![Report Preview](dashboard_image.png)
 
 ## How to Use This Repository
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/gangadhar107/Sales-Analysis-Dashboard-using-Power-BI.git
+    git clone https://github.com/gangadhar107/Sales-Analysis-Report-using-Power-BI.git
     ```
 2. **View the PDF**:
     - Download and open `Sales Analysis Dashboard.pdf` to see the complete report.
